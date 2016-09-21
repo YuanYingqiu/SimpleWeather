@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#607d8b</color>
+    <!--<color name="colorPrimaryDark">#455a64</color>-->
+    <color name="colorAccent">#536dfe</color>
+    <color name="colorWhite">#ffffffff</color>
+
+    <color name="color_dot_gray">#ff37474f</color>
+
+    <color name="color_bg">#607d8b</color>
+
+    <color name="color_province_gray">#ffe0e0e0</color>
+</resources>
